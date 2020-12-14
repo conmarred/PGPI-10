@@ -18,6 +18,8 @@
  * @package WordPress
  */
 
+define( 'WP_SITEURL', 'https://localhost/wordpress/' );
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('REVISR_WORK_TREE', 'C:\xampp\htdocs\wordpress/'); // Added by Revisr
