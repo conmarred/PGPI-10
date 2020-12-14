@@ -21,7 +21,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('REVISR_WORK_TREE', 'C:\xampp\htdocs\wordpress/'); // Added by Revisr
-define('REVISR_GIT_PATH', ''); // Added by Revisr
+define('REVISR_GIT_PATH', 'https://github.com/conmarred/PGPI-10'); // Added by Revisr
 define( 'DB_NAME', 'shoetsii' );
 
 /** MySQL database username */
